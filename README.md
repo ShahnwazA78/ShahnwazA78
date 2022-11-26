@@ -17,11 +17,16 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" /> 
 </div>
+<br>
+<br>
+<br>
 
 
 
+<img align="right" alt="coding" width="350" height="250" src="https://media.giphy.com/media/p2GaqIvO2CghxLofci/giphy.gif">
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/p2GaqIvO2CghxLofci/giphy.gif">
+
+
 <!-- About -->
 <h1>
  <img src="https://media.giphy.com/media/Pjaar9PMPIJoh2LySv/giphy.gif" width="20" />
@@ -99,8 +104,8 @@ My GitHub History:</h1>
 
 
 <a href="https://github.com/ShahnwazA78">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahnwazA78&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnwazA78&theme=vision-friendly-dark&hide=c%2B%2B&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShahnwazA78&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnwazA78&theme=vision-friendly-dark&hide=c%2B%2B&layout=compact"/>
 </a>
   
  
