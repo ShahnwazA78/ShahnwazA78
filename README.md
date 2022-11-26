@@ -74,13 +74,15 @@ FrameWorks <img src="https://media.giphy.com/media/KFiyMLUgNVRk0nEUoV/giphy.gif"
 Database Use:</h1>
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="65" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MYSQL" width="65" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
   
 <h1> <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif" width="50" />
 Tools Use:</h1>
 
 <p>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="65" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="65" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
