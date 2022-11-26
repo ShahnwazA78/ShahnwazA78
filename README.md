@@ -28,11 +28,11 @@
 
 
 <!-- About -->
-<h1>
+<h2>
  <img src="https://media.giphy.com/media/Pjaar9PMPIJoh2LySv/giphy.gif" width="20" />
 About Me 
   
-</h1>
+</h2>
 
 
 
@@ -51,8 +51,8 @@ About Me
 </p>
 </span>
 
- <h1> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" />
-Languages Use:</h1>
+ <h2> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" />
+Languages Use:</h2>
 
 <p> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
