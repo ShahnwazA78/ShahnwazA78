@@ -99,13 +99,10 @@ My GitHub History:</h1>
 
 
 <a href="https://github.com/ShahnwazA78">
-  
-<a href="https://github.com/sahilrohera10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahnwazA78&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnwazA78&theme=vision-friendly-dark&hide=c%2B%2B&layout=compact"/>
 </a>
   
-</a>
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShahnwazA78&theme=dark&background=000000)](https://git.io/streak-stats)
 </p>
