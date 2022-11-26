@@ -104,8 +104,8 @@ My GitHub History:</h1>
 
 
 <a href="https://github.com/ShahnwazA78">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShahnwazA78&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnwazA78&theme=vision-friendly-dark&hide=c%2B%2B&layout=compact"/>
+  <img width="400em" height="150em" src="https://github-readme-stats.vercel.app/api?username=ShahnwazA78&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnwazA78&theme=vision-friendly-dark&hide=c%2B%2B&layout=compact"/>
 </a>
   
  
