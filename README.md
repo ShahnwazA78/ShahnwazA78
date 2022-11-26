@@ -19,11 +19,10 @@
 </div>
 
 
-<h1></h1>
 
-<!-- About -->
+
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/p2GaqIvO2CghxLofci/giphy.gif">
-
+<!-- About -->
 <h1>
  <img src="https://media.giphy.com/media/Pjaar9PMPIJoh2LySv/giphy.gif" width="20" />
 About Me 
