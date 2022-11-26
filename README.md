@@ -29,7 +29,7 @@
 
 <!-- About -->
 <h2>
- <img src="https://media.giphy.com/media/Pjaar9PMPIJoh2LySv/giphy.gif" width="20" />
+ <img src="https://media.giphy.com/media/Pjaar9PMPIJoh2LySv/giphy.gif" width="15" />
 About Me 
   
 </h2>
@@ -37,7 +37,7 @@ About Me
 
 
 
-<span style="font-size: 18px">
+<span style="font-size: 15px">
   
 <p >
 
@@ -51,7 +51,7 @@ About Me
 </p>
 </span>
 
- <h2> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" />
+ <h2> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" />
 Languages Use:</h2>
 
 <p> 
@@ -62,8 +62,8 @@ Languages Use:</h2>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
 
-<h1> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30" />
-FrameWorks <img src="https://media.giphy.com/media/KFiyMLUgNVRk0nEUoV/giphy.gif" width="30" /> Libraries Use:</h1>
+<h2> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20" />
+FrameWorks <img src="https://media.giphy.com/media/KFiyMLUgNVRk0nEUoV/giphy.gif" width="30" /> Libraries Use:</h2>
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,7 +75,7 @@ FrameWorks <img src="https://media.giphy.com/media/KFiyMLUgNVRk0nEUoV/giphy.gif"
 </p>
   
 
-<h1> <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="50" />
+<h2> <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="40" />
 Database Use:</h1>
 
 <p>
@@ -84,7 +84,7 @@ Database Use:</h1>
 </p>
   
  
-<h1> <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif" width="50" />
+<h2> <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif" width="40" />
 Tools Use:</h1>
 
 <p>
@@ -95,8 +95,8 @@ Tools Use:</h1>
 </p>
 
 
-<h1> <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif" width="50" />
-My GitHub History:</h1>
+<h2> <img src="https://media.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.gif" width="40" />
+My Stats:</h1>
   
 <p >
  
