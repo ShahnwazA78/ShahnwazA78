@@ -9,13 +9,13 @@
 </div>
 
 
-<span style="color:#39FF14"><h2 align="center" color="#39FF14"> Developer 🧑‍💻 | Engineer 🎓 | Coder  ©️ </h2></span>
+<span style="color:#39FF14"><h2 align="center" color="#39FF14"> Developer  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="20"> | Engineer <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="20"> | Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> </h2></span>
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" /> 
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80" /> 
 </div>
 <br>
 <br>
