@@ -89,3 +89,17 @@ Tools Use:</h1>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" title="PostMan" alt="Postman" width="95" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+
+<h1> <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif" width="50" />
+My GitHub History:</h1>
+<a href="https://github.com/ShahnwazA78">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahnwazA78&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnwazA78&theme=noctis_minimus&layout=compact" />
+</a>
+
+![Snake animation](https://github.com/ShahnwazA78/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p> 
+  
