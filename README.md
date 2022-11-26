@@ -64,6 +64,7 @@ FrameWorks <img src="https://media.giphy.com/media/KFiyMLUgNVRk0nEUoV/giphy.gif"
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -73,7 +74,7 @@ FrameWorks <img src="https://media.giphy.com/media/KFiyMLUgNVRk0nEUoV/giphy.gif"
 Database Use:</h1>
 
 <p>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
   
 <h1> <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif" width="50" />
