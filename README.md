@@ -100,8 +100,8 @@ My GitHub History:</h1>
 
 <a href="https://github.com/ShahnwazA78">
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahnwazA78&show_icons=true&theme=vision-friendly-dark) &nbsp;
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnwazA78&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahnwazA78&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnwazA78&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </a>
  
