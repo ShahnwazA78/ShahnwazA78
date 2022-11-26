@@ -92,14 +92,29 @@ Tools Use:</h1>
 
 <h1> <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif" width="50" />
 My GitHub History:</h1>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShahnwazA78&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+<p >
+ 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShahnwazA78&bg_color=fffff&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<a href="https://github.com/ShahnwazA78">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahnwazA78&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnwazA78&theme=algolia&hide=c%2B%2B&layout=compact"/>
+</a>
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sahilrohera10&theme=cobalt)](https://git.io/streak-stats)
+
+</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShahnwazA78&theme=dark&background=000000)](https://git.io/streak-stats)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnwazA78&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
   
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p> 
   
